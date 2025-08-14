@@ -10,7 +10,7 @@ Projeto completo de análise de dados de vendas da Adidas, incluindo:
 - **Dashboard interativo** no Power BI com métricas-chave
 
 ## 🛠️ Tecnologias Utilizadas
-- **Python** (Pandas, NumPy) - para limpeza e tratamento dos dados 
+- **Python** (Pandas) - para limpeza e tratamento dos dados 
 - **Power BI** - para visualização de dados
 - ** Figma** - para parte gráfica 
 - **Git** - para versionamento
@@ -28,6 +28,12 @@ Projeto completo de análise de dados de vendas da Adidas, incluindo:
 
 ### Principais Problemas Identificados
 1. Valores nulos na coluna `Price per Unit`
-2. Inconsistências nos formatos de dados monetários
+2. Inconsistências nos formatos de dados 
 3. Necessidade de padronização de categorias
+
+## 🖼️ Imagem do Dashboard
+
+![Análise de Vendas Adidas](Dashboard_Adidas.png)
+
+---
 
